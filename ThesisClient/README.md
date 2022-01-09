@@ -1,4 +1,4 @@
-# Thesis
+# Client-side Online Processing
 
 ![Client Processing Overview](./documents/images/client.png)
 

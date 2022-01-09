@@ -1,6 +1,6 @@
 # Offline Processing
 This folder holds the codebase for the offline processing implementation of my Computer Science M.Sc. Thesis at Saarland University with the [Ubiquitous Media Technology Lab](https://umtl.cs.uni-saarland.de/).
-![Offline Processing Summary](./documents/images/Tried_Configurations.png)
+![Offline Processing Summary](./documents/images/Tried_Configurations.jpg)
 The above figure shows the different elements that were implemented for the offline processing, which were then reduced to the final setup as shown in the far left of the above image. Both pre-processing implementations were tested throughout the code.
 The main.py file will run the code with the final implementation in mind.
 ### CSP Feature Extraction Explanation

@@ -1,8 +1,9 @@
 # Offline Processing
 This folder holds the codebase for the offline processing implementation of my Computer Science M.Sc. Thesis at Saarland University with the [Ubiquitous Media Technology Lab](https://umtl.cs.uni-saarland.de/).
-![Offline Processing Summary](./documents/images/Tried_Configurations.jpg)
+![Offline Processing Summary](./documents/images/Tried_Configurations.png)
 The above figure shows the different elements that were implemented for the offline processing, which were then reduced to the final setup as shown in the far left of the above image. Both pre-processing implementations were tested throughout the code.
 The main.py file will run the code with the final implementation in mind.
+All the codes are documented using comments throughout along with type hinting. The code is structured over multiple folders and is straightforward to understand by following the naming methodology used throughout. 
 ### CSP Feature Extraction Explanation
 The [MNE python library](https://mne.tools/stable/index.html), was used for the actual CSP computations. Due to CSP being mainly implemented for differentiating between two classes, we did the implementation in a one vs. rest approach. This meant that we created five different pairs of data where each of the five classes, separately, represented a class, paired with another class, of the same size, created from randomly picking equal amounts of data from the remaining four classes. After creating the different training pairs, we applied the feature extraction itself. We used each of the training data pairs to create a CSP mask, we then fitted the training data for each equivalent word on its training counterpart. To facilitate the concept, the figure below illustrates the methodology.
 ![CSP Feature Extraction](./documents/images/CSP_Feature_Extraction.png)

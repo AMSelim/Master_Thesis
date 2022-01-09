@@ -1,0 +1,14 @@
+grpc:
+    port: "[::]:5000"
+repository:
+    host: "localhost"
+    port: 27017
+    name: "database"
+participant:
+    id:
+flask:
+    host: "0.0.0.0"
+    port: "5500"
+rabbit_mq:
+    connection: "amqp://guest:guest@localhost:5672/%2f"
+    exchange_name: "thesis.eeg.spark.processing"

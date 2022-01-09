@@ -1,0 +1,4 @@
+grpc:
+    host: 'localhost:5000'
+participant:
+    id: 102

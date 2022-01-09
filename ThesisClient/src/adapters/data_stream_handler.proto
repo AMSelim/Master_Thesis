@@ -1,0 +1,22 @@
+syntax = "proto3";
+package Thesis;
+
+service DataStreamHandler{
+  rpc exchange_eeg_data(Data) returns (Param) {}
+}
+
+message Param{}
+
+message Data{
+  bytes value = 1;
+  string type = 2;
+  string label = 3;
+  int32 end_of_level = 4;
+  MetaData headset_information = 5;
+}
+
+message MetaData{
+  int32 channels = 1;
+  int32 number_of_samples = 2;
+  int32 participant_id = 3;
+}

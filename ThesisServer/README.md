@@ -1,4 +1,4 @@
-# Thesis
+# Server-side Online Processing
 
 ![Server Processing Overview](./documents/images/server.png)
 

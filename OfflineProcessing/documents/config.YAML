@@ -1,0 +1,59 @@
+participant_1:
+    data_to_delete: {"Overt_Up": [73], "Overt_Left": [25], "Overt_Right": [5], "Overt_Pick": [34], "Overt_Push": [21, 56]}
+    channels_to_drop: null
+
+participant_2:
+    data_to_delete: {"Overt_Up": [56], "Overt_Left": [], "Overt_Right": [], "Overt_Pick": [], "Overt_Push": []}
+    channels_to_drop: null
+
+participant_3:
+    data_to_delete: {"Overt_Up": [36], "Overt_Left": [], "Overt_Right": [], "Overt_Pick": [], "Overt_Push": [26, 34]}
+    channels_to_drop: null
+
+participant_4:
+    data_to_delete:  {"Overt_Up": [40], "Overt_Left": [], "Overt_Right": [], "Overt_Pick": [], "Overt_Push": []}
+    channels_to_drop: null
+
+participant_5:
+    data_to_delete: {"Overt_Up": [], "Overt_Left": [70, 71], "Overt_Right": [], "Overt_Pick": [], "Overt_Push": []}
+    channels_to_drop: null
+
+participant_6:
+    data_to_delete: {"Overt_Up": [6], "Overt_Left": [74], "Overt_Right": [], "Overt_Pick": [57], "Overt_Push": [69, 70, 72]}
+    channels_to_drop: null
+
+participant_7:
+    data_to_delete: {"Overt_Up": [25, 37, 67, 73], "Overt_Left": [], "Overt_Right": [18, 67], "Overt_Pick": [67], "Overt_Push": []}
+    channels_to_drop: ["F2", "F4", "F6", "AF4"]
+
+participant_8:
+    data_to_delete: {"Overt_Up": [18, 45, 64], "Overt_Left": [], "Overt_Right": [37, 67], "Overt_Pick": [45], "Overt_Push": [23, 59, 71]}
+    channels_to_drop: null
+
+participant_9:
+    data_to_delete: {"Overt_Up": [], "Overt_Left": [], "Overt_Right": [], "Overt_Pick": [18, 34], "Overt_Push": [10, 39]}
+    channels_to_drop: null
+
+participant_10:
+    data_to_delete: {"Overt_Up": [], "Overt_Left": [], "Overt_Right": [], "Overt_Pick": [], "Overt_Push": []}
+    channels_to_drop: null
+
+participant_11:
+    data_to_delete: {"Overt_Up": [], "Overt_Left": [], "Overt_Right": [49], "Overt_Pick": [], "Overt_Push": []}
+    channels_to_drop: null
+
+participant_12:
+    data_to_delete: {"Overt_Up": [], "Overt_Left": [], "Overt_Right": [], "Overt_Pick": [], "Overt_Push": []}
+    channels_to_drop: null
+
+participant_13:
+    data_to_delete: {"Overt_Up": [], "Overt_Left": [], "Overt_Right": [], "Overt_Pick": [48], "Overt_Push": []}
+    channels_to_drop: null
+
+participant_14:
+    data_to_delete: {"Overt_Up": [], "Overt_Left": [5], "Overt_Right": [16, 35], "Overt_Pick": [34], "Overt_Push": [39]}
+    channels_to_drop: ["CP5", "TP7", "AF3"]
+    
+participant_15:
+    data_to_delete: {"Overt_Up": [], "Overt_Left": [5], "Overt_Right": [], "Overt_Pick": [], "Overt_Push": [26]}
+    channels_to_drop: ["PO10"]

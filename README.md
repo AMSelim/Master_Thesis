@@ -2,6 +2,7 @@
 This repository holds the codebase for the implementation of my Computer Science M.Sc. Thesis at Saarland University with the [Ubiquitous Media Technology Lab](https://umtl.cs.uni-saarland.de/).
 ## Important Notes
 - All the codes implemented in this repository were written by me: Abdulrahman M. Selim.
+- The codes were written with the supervision of [Matthias](https://github.com/maei), and I truely appreciate his help. 
 - I have excluded any codes and documents that were UMTL property or were not mine to share.
 - The dataset is not included in this repository, and I cannot share it.
 ## Abstract

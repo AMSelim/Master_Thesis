@@ -18,3 +18,16 @@ The data collection study for my thesis was in a client-server setup. The Thesis
 Some codes are not included due because they were implemented by the lab itself and other personnel. So, I cannot add them here as they are not mine.
 The figure below shows the overview of the whole online processing pipeline together.
 ![Online Processing Overview](./documents/Online_Processing_Overview.png)
+
+## Citation
+If you find this work useful to your research, please consider citing the publication:
+
+```
+@INPROCEEDINGS{9945447,  
+author={Rekrut, Maurice and Selim, Abdulrahman Mohamed and Krüger, Antonio},  
+booktitle={2022 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},   
+title={Improving Silent Speech BCI Training Procedures Through Transfer from Overt to Silent Speech},   
+year={2022},
+pages={2650-2656},  
+doi={10.1109/SMC53654.2022.9945447}}
+```

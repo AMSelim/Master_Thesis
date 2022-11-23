@@ -20,7 +20,7 @@ The figure below shows the overview of the whole online processing pipeline toge
 ![Online Processing Overview](./documents/Online_Processing_Overview.png)
 
 ## Citation
-If you find this work useful to your research, please consider citing the publication:
+If you find this work useful to your research, please consider citing the [publication](https://ieeexplore.ieee.org/abstract/document/9945447):
 
 ```
 @INPROCEEDINGS{9945447,  

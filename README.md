@@ -26,8 +26,30 @@ The figure below shows the overview of the whole online processing pipeline toge
  - Both the box and gear assets were acquired from [Ajay Karat | Devil's Work.shop](https://devilsworkshop.itch.io/) with the licence **Public Domain Dedication**.
 
 ## Citation
-If you find this work useful to your research, please consider citing the [publication](https://ieeexplore.ieee.org/abstract/document/9945447):
+If you find this work useful to your research, please consider citing our publications.
 
+The game and technical implementation [publication](https://dl.acm.org/doi/10.1145/3656650.3656654):
+```
+@inproceedings{10.1145/3656650.3656654,
+author = {Mohamed Selim, Abdulrahman and Rekrut, Maurice and Barz, Michael and Sonntag, Daniel},
+title = {Speech Imagery BCI Training Using Game with a Purpose},
+year = {2024},
+isbn = {9798400717642},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3656650.3656654},
+doi = {10.1145/3656650.3656654},
+abstract = {Games are used in multiple fields of brain–computer interface (BCI) research and applications to improve participants’ engagement and enjoyment during electroencephalogram (EEG) data collection. However, despite potential benefits, no current studies have reported on implemented games for Speech Imagery BCI. Imagined speech is speech produced without audible sounds or active movement of the articulatory muscles. Collecting imagined speech EEG data is a time-consuming, mentally exhausting, and cumbersome process, which requires participants to read words off a computer screen and produce them as imagined speech. To improve this process for study participants, we implemented a maze-like game where a participant navigated a virtual robot capable of performing five actions that represented our words of interest while we recorded their EEG data. The study setup was evaluated with 15 participants. Based on their feedback, the game improved their engagement and enjoyment while resulting in a 69.10\% average classification accuracy using a random forest classifier.},
+booktitle = {Proceedings of the 2024 International Conference on Advanced Visual Interfaces},
+articleno = {43},
+numpages = {5},
+keywords = {BCI, EEG, Game with a purpose (GWAP), Imagined speech, User study},
+location = {<conf-loc>, <city>Arenzano, Genoa</city>, <country>Italy</country>, </conf-loc>},
+series = {AVI '24}
+}
+```
+
+The EEG-focused [publication](https://ieeexplore.ieee.org/abstract/document/9945447):
 ```
 @INPROCEEDINGS{9945447,  
 author={Rekrut, Maurice and Selim, Abdulrahman Mohamed and Krüger, Antonio},  

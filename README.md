@@ -5,7 +5,7 @@ This repository holds the codebase for the implementation of my Computer Science
 ## Important Notes
 - I wrote the codes implemented in this repository under the supervision of Matthias Eiletz for the technical implementation. 
 - I excluded any codes and documents that were UMTL property or were not mine to share.
-- The dataset is not included in this repository. For any inquiries on the dataset, please get in touch with my supervisor at UMTL, Maurice Rekrut. 
+- The dataset is now available online on Zenodo: https://doi.org/10.5281/zenodo.14645653
 
 ## Description 
 In Human-Computer Interaction, Speech Imagery is defined as speech production in the absence of any audible sounds.  It can be used across multiple domains, for example, in the medical domain for some forms of paralysis and Amyotrophic lateral sclerosis (ALS) patients, in the industrial domain for loud settings where workers cannot communicate efficiently using overt speech, and any other domain where overt speech is not possible. One of the methods used to detect Speech Imagery is measuring brain activity using Electroencephalography (EEG) devices. However, collecting training data for detecting Speech Imagery from EEG signals is a burdensome process because the participants must sit for long periods of time repeating the same group of words silently, which is quite time-consuming, mentally exhausting, boring, and difficult to validate the correctness of the words being said. 
